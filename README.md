@@ -86,7 +86,7 @@ A curated list of weeb sources.
 
 ##### Usenet
   * Usenet Indexers
-	* 
+	* [ameNZB](https://amenzb.moe/) - Anime NZB indexer.
 	* 
 	* 
 	* 
